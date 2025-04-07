@@ -1,6 +1,9 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/index/index",
+    "pages/activity/detail",
+    "pages/activity/list",
+    "pages/user/index"
   ],
   "window": {
     "navigationBarTextStyle": "black",
